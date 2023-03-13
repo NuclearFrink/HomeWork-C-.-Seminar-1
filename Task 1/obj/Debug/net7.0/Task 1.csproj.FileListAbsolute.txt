@@ -1,0 +1,15 @@
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\bin\Debug\net7.0\Task 1.exe
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\bin\Debug\net7.0\Task 1.deps.json
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\bin\Debug\net7.0\Task 1.runtimeconfig.json
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\bin\Debug\net7.0\Task 1.dll
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\bin\Debug\net7.0\Task 1.pdb
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.csproj.AssemblyReference.cache
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfo.cs
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.dll
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\refint\Task 1.dll
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.pdb
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\Task 1.genruntimeconfig.cache
+C:\Users\Григорий\Desktop\учеба\HomeWork C#. Seminar 1\Task 1\obj\Debug\net7.0\ref\Task 1.dll
